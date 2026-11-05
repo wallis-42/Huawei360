@@ -1,0 +1,6 @@
+pyusb
+libusb-package
+numpy
+opencv-python
+pyvirtualcam
+av
